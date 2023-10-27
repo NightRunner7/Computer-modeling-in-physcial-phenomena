@@ -1,5 +1,5 @@
 # Ignore directories containg a trash
 .idea/
 .ipynb_checkpoints/
-.gif/
+*.gif/
 __pycache__/
